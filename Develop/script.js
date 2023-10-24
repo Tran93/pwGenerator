@@ -1,4 +1,4 @@
-// Assignment code here
+
 var specialChar =[
   '@',
   '%',
